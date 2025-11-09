@@ -1,4 +1,4 @@
-package com.memocal.memocal
+package com.rudqlsdla.memocal
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -8,7 +8,7 @@
 PRODUCT_NAME = memocal
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.memocal.memocal
+PRODUCT_BUNDLE_IDENTIFIER = com.rudqlsdla.memocal
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2025 com.memocal. All rights reserved.
